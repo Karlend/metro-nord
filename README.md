@@ -1,1 +1,1 @@
-"Metrol theme in nord colors for Steam" 
+Metro skin in nord colors for Steam
